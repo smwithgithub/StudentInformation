@@ -38,6 +38,7 @@ public class Tester {
 
         }
 
+<<<<<<< HEAD
         System.out.print("Enter student name to query:- ");
         String checkName= sc.nextLine();
 
@@ -46,6 +47,9 @@ public class Tester {
                 System.out.println(studentInfo.toString());
             }
         }
+=======
+
+>>>>>>> origin/main
 
     }
 }
